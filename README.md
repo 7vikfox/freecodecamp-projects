@@ -1,8 +1,8 @@
-FreeCodeCamp Learning Journey
+**FreeCodeCamp Learning Journey**
 
 This repository contains my hands-on practice, notes, and mini-projects completed during my FreeCodeCamp learning journey. The goal of this repo is to document everything I learn as I progress through multiple certifications.
 
-📌 Contents
+**📌 Contents**
 
 Notes from lessons
 
@@ -12,7 +12,7 @@ Real project assignments
 
 Practice files for HTML, CSS, JS & Python
 
-🎯 Purpose
+**🎯 Purpose**
 
 Writing code daily
 
@@ -24,7 +24,7 @@ Tracking progress publicly
 
 
 
-🚀 Status
+**🚀 Status**
 
 Currently learning + updating regularly.
 More projects & notes will be added over time.

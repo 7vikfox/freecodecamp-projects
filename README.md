@@ -10,7 +10,7 @@ Code snippets & exercises
 
 Real project assignments
 
-Practice files for HTML, CSS, JS & Python
+Practice files for HTML, CSS, JS , TS & Python
 
 **🎯 Purpose**
 
